@@ -6,6 +6,10 @@ A powerful desktop application for bulk URL shortening that supports multiple po
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-41CD52.svg)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
+![Image](https://github.com/user-attachments/assets/f6e22be7-5340-41da-9aa1-d594cd45af93)
+![Image](https://github.com/user-attachments/assets/c75b769c-27e8-4a3f-9734-01ddb23d96d0)
+![Image](https://github.com/user-attachments/assets/2a78feb3-f608-4b10-810d-02be6753c27b)
+
 ## ✨ Features
 
 - 🔄 Support for multiple URL shortening services:
